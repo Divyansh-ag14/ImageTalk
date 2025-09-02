@@ -3,7 +3,7 @@
 ## Architecture Diagram
 ![](imagetalk.png)
 
-## 🩺 Project Overview
+## Project Overview
 
 This project is a **multimodal AI assistant** that combines **speech recognition**, **image understanding**, and **text generation** to simulate a medical consultation. It allows a user (patient) to:
 
